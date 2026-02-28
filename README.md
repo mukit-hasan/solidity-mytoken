@@ -26,21 +26,11 @@ When someone sells, the opposite happens.
 - Mocha + Chai
 
 ## Setup
-\`\`\`bash
+```bash
 npm install
 npx hardhat test
-\`\`\`
+```
 
 ## Warning
 This is a learning project. Not audited. 
 Do not use with real funds on mainnet.
-```
-
----
-
-**Make sure your `.gitignore` includes:**
-```
-node_modules/
-artifacts/
-cache/
-.env
